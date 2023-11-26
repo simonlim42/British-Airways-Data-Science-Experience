@@ -26,7 +26,7 @@ The following libraries were used for the NLP analysis:
 
 ## Notebook 2: Customer Booking Prediction with Random Forest
 
-The "Predictive modelling of customer bookings" notebook focuses on predicting customer bookings using machine learning techniques, specifically employing the Random Forest algorithm. The notebook begins with comprehensive data cleaning to ensure the dataset's quality. Next, I trained a Random Forest model using specific features to predict whether a customer would make a booking. The notebook includes detailed visualizations, performance analysis, and the exploration of different feature sets to enhance the predictive accuracy of the model.
+The "Predictive modelling of customer bookings" notebook focuses on predicting customer bookings using machine learning techniques, specifically employing the ** Random Forest** algorithm. The notebook begins with comprehensive data cleaning to ensure the dataset's quality. Next, I trained a Random Forest model using specific features to predict whether a customer would make a booking. The notebook includes detailed visualizations, performance analysis, and the exploration of different feature sets to enhance the predictive accuracy of the model.
 
 ### Key Features:
 - Data cleaning for preprocessing the dataset.
