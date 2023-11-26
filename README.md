@@ -8,8 +8,7 @@ In the "Web scraping and Sentiment analysis" notebook, I utilized Natural Langua
 - Web scraping for British Airways reviews.
 - Natural Language Processing (NLP) techniques for sentiment analysis.
 - Visualizations to showcase sentiment trends (Wordcloud, Top topics).
-# Airline Sentiment Analysis and Booking Prediction
-
+  
 ## Dependencies
 
 The following libraries were used for the NLP analysis:
