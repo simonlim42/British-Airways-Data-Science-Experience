@@ -1,6 +1,6 @@
 # Airline Sentiment Analysis and Csutomer Booking Prediction
 
-## Notebook 1: Sentiment Analysis using NLP on British Airways Reviews
+## Notebook 1: Sentiment Analysis using on British Airways Reviews
 
 In the "Web scraping and Sentiment analysis" notebook, I utilized Natural Language Processing (NLP) techniques to analyze sentiments expressed in reviews of British Airways. The primary steps include web scraping to gather the reviews and applying various NLP methods to extract insights into customer sentiments. The notebook provides a detailed walkthrough of the process, from data collection to sentiment analysis, and includes visualizations to enhance the understanding of the results.
 
