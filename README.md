@@ -1,4 +1,4 @@
-# Airline Sentiment Analysis and Csutomer Booking Prediction
+# Airline Sentiment Analysis and Customer Booking Prediction
 
 ## Notebook 1: Sentiment Analysis using on British Airways Reviews
 
